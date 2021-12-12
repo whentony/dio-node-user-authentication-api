@@ -1,0 +1,17 @@
+{
+  "name": "dio-node-user-authentication-api",
+  "version": "1.0.0",
+  "description": "Estudos de node api authentication",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Whentony Ferreira",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "typescript": "^4.5.3"
+  }
+}
